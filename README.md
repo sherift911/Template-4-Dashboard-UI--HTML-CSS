@@ -13,7 +13,7 @@ This project focuses on creating a clean UI, reusable components, and a scalable
 
 ## 📸 Preview
 
-![Template-4-Dashboard-UI--HTML-CSS](site.png)
+![Template-4-Dashboard-UI--HTML-CSS](images/site.png)
 
 ---
 
