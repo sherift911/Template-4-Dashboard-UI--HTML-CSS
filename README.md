@@ -7,7 +7,7 @@ This project focuses on creating a clean UI, reusable components, and a scalable
 
 ## 🌐 Live Demo
 
-[Click Here]( https://sherift911.github.io/Template-4-Dashboard-UI--HTML-CSS/)
+[Click Here]( https://sherifkhater-dev.github.io/Template-4-Dashboard-UI--HTML-CSS/)
 
 ---
 
